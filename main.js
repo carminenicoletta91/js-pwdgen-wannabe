@@ -14,4 +14,4 @@ colore=prompt("Inserisci il tuo colore preferito");
 document.getElementById('il-mio-colore-preferito').innerHTML=colore;
 
 var password;
-password=document.getElementById('la-mia-password').innerHTML=nome+cognome+colore+"19"
+password=document.getElementById('la-mia-password').innerHTML=nome+cognome+colore+"19";
