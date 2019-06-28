@@ -1,5 +1,5 @@
 
-alert("Ciao ti aiuterò a creare una password!!")
+alert("Ciao ti aiuterò a creare una password!!");
 
 var nome;
 nome=prompt("Inserisci il tuo nome");
